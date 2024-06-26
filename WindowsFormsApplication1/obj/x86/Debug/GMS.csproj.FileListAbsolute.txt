@@ -1,0 +1,84 @@
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Database1.mdf
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Database1_log.ldf
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Admin_hp.resources
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.login.resources
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GMS.csproj.GenerateResource.Cache
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Client_detail.resources
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Employee_details.resources
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Billing.resources
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Part_detail.resources
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Analytics.resources
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Manufacturer_details.resources
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.OrderDetails.resources
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AboutUs.resources
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Service_Type.resources
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report.Client_CR_frm.resources
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GMS.csprojResolveAssemblyReference.cache
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report.Emp_CR_frm.resources
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report.Manu_CR_frm.resources
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report.Part_CR_frm.resources
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report.Order_CR_frm.resources
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report.Service_CR_frm.resources
+D:\Ref Projects\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report.Billing_CR_frm.resources
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Database1.mdf
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Database1_log.ldf
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GMS.csprojResolveAssemblyReference.cache
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AboutUs.resources
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Admin_hp.resources
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Analytics.resources
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Client_detail.resources
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Employee_details.resources
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Billing.resources
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report.Billing_CR_frm.resources
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report.Client_CR_frm.resources
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report.Emp_CR_frm.resources
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report.Manu_CR_frm.resources
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report.Order_CR_frm.resources
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report.Part_CR_frm.resources
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report.Service_CR_frm.resources
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Service_Type.resources
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Manufacturer_details.resources
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.login.resources
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.OrderDetails.resources
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Part_detail.resources
+D:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GMS.csproj.GenerateResource.Cache
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Database1.mdf
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Database1_log.ldf
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GMS.csprojResolveAssemblyReference.cache
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AboutUs.resources
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Admin_hp.resources
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Analytics.resources
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Client_detail.resources
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Employee_details.resources
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Billing.resources
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report.Billing_CR_frm.resources
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report.Client_CR_frm.resources
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report.Emp_CR_frm.resources
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report.Manu_CR_frm.resources
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report.Order_CR_frm.resources
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report.Part_CR_frm.resources
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report.Service_CR_frm.resources
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Service_Type.resources
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Manufacturer_details.resources
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.login.resources
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.OrderDetails.resources
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Part_detail.resources
+F:\BACKUP\PROJECT\GMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GMS.csproj.GenerateResource.Cache
